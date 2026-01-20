@@ -1,0 +1,11 @@
+{
+	"title": "Legion",
+	"artist": "Michel F. April",
+	"bpm": 127,
+	"offset": 0,
+	"timeSignature": "4/4",
+	"cuePoints": {
+		"Start": 0,
+		"Second Part": 12300
+	}
+}
